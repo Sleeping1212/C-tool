@@ -11,8 +11,8 @@ wait(0.2)
 local AkaliNotif = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/Dynissimo/main/Scripts/AkaliNotif.lua"))();
 local Notify = AkaliNotif.Notify;
 Notify({
-Description = "Notification";
-Title = "Thanks for using Fortnite_proxd's Dotlock";
+Description = "Thanks for using Fortnite_proxd's Dotlock";
+Title = "Notification:";
 Duration = 10;
 })
 
